@@ -20,11 +20,11 @@
 
 title: SRIKOMM
 email: srikomm@duck.com
-domain: srikomm.github.io
+#domain: srikomm.github.io
 description: >- # this means to ignore newlines until "baseurl:"
   Personal site of SRIKOMM
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://srikomm.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+#baseurl: "/blog" # the subpath of your site, e.g. /blog
+#url: "https://srikomm.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: srikomm
 github_username:  srikomm
 
