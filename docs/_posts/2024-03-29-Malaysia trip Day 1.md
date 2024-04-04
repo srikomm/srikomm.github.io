@@ -1,7 +1,7 @@
 # Day 1
 
 Landed in the KUL airport early in the morning at around 6AM. First thing we did was to take 3 local SIMs, one for each of us.
-It costed around `45M$` for a 30-day pack. Our trip was for 10 days, but options were for either 7 days or 30 days, so had to take those.
+It costed around `45RM` for a 30-day pack. Our trip was for 10 days, but options were for either 7 days or 30 days, so had to take those.
 
 Then we cleared ourselves through the immigration check.
 3 of us were travelling, for 2 of us it was seamless, only question asked was, `How long is your stay?` and then the person at the counter
@@ -16,6 +16,9 @@ The ride was seamless and at no point we felt unsafe. Dude beat Google Maps ETA 
 was well maintained and had a custom paint job.
 
 ![my man chilling after dropping us at the hotel with jetspeed](./../photos/my%20man%20chilling%20after%20dropping%20us%20at%20the%20hotel%20with%20jetspeed.png)
+
+test 2
+![my man chilling after dropping us at the hotel with jetspeed.png](..%2Fphotos%2Fmy%20man%20chilling%20after%20dropping%20us%20at%20the%20hotel%20with%20jetspeed.png)
 
 We reached hotel by 9 AM, but our checkin was at 3PM, so left the luggage at the reception and went out for breakfast.
 
