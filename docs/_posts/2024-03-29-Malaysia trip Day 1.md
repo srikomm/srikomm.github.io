@@ -15,7 +15,7 @@ This was a very quick ride from the airport to our hotel. Guy didn't know his ca
 The ride was seamless and at no point we felt unsafe. Dude beat Google Maps ETA by about 15 mins. He felt passionate about driving, his car 
 was well maintained and had a custom paint job.
 
-![my man chilling after dropping us at the hotel with jetspeed](../assets/images/my%20man%20chilling%20after%20dropping%20us%20at%20the%20hotel%20with%20jetspeed.png)
+![my man chilling after dropping us at the hotel with jetspeed](/assets/images/my_man_chilling_after_dropping_us_at_the_hotel_with_jetspeed.png)
 
 We reached hotel by 9 AM, but our checkin was at 3PM, so left the luggage at the reception and went out for breakfast.
 
