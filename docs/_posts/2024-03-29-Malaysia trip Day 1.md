@@ -17,19 +17,29 @@ was well maintained and had a custom paint job.
 
 ![my man chilling after dropping us at the hotel with jetspeed](/assets/images/my_man_chilling_after_dropping_us_at_the_hotel_with_jetspeed.png)
 
-We reached hotel by 9 AM, but our checkin was at 3PM, so left the luggage at the reception and went out for breakfast.
+We reached hotel by 9 AM, but our checkin was at 3PM, so left the luggage at the reception. I think this is a common practise here, no 
+hassles in keeping the luggage at the reception. In fact by the time we came back to check in, there were easily 200 bags at the reception, 
+and it took us a few mins just to find our luggage in the mountain of bags.
 
-add link to breakfast place here and pic of breakfast & amount
+Went out for breakfast [here](https://maps.app.goo.gl/Uu26YdMcRi8tK6Hw5)
 
-Then we left for a historical place. 
-add link and name
+
+![day 1 breakfast](/assets/images/day_1_breakfast.jpg)
+
+cost - 107RM
+
+To kill time, we went to [merdekka square](https://maps.app.goo.gl/EA2kFNbEu8KjAQaA7). This is where they perform the annual independence 
+day parade.  
+
 cab ride & cost details
 
 cue photos here
 
-went to a islamic museum
+We walked towards [National Mosque of Malaysia](https://maps.app.goo.gl/mwSQc5KCJEP3yy9RA) but we weren't allowed to go in as it was Friday 
+and some prayer was happening, then we strolled to [Islamic Arts Museum Malaysia](https://maps.app.goo.gl/8tHL3esWDhzUAM7dA)
 
-cue entry ticket photo & price
+![entry tickets of museum](/assets/images/day_1_islamic_museum_entry_tickets.jpg)
+entry cost - 20MYR
 
 cue photos of calligraphy
 
