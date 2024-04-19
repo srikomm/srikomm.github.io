@@ -41,27 +41,92 @@ and some prayer was happening, then we strolled to [Islamic Arts Museum Malaysia
 ![entry tickets of museum](/assets/images/day_1_islamic_museum_entry_tickets.jpg)
 entry cost - 20MYR
 
-cue photos of calligraphy
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
+  <ol class="carousel-indicators">
+    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#myCarousel" data-slide-to="1"></li>
+    <li data-target="#myCarousel" data-slide-to="2"></li>
+  </ol>
+
+  <div class="carousel-inner" role="listbox">
+    <div class="item active">
+      <img src="/assets/images/ml_trip/calligraphy/IMG_1786.jpg" alt="Calligraphy picture">
+    </div>
+    <div class="item">
+      <img src="/assets/images/ml_trip/calligraphy/IMG_1787.jpg" alt="Calligraphy picture">
+    </div>
+    <div class="item">
+      <img src="/assets/images/ml_trip/calligraphy/IMG_1789.jpg" alt="Calligraphy picture">
+    </div>
+    <div class="item">
+      <img src="/assets/images/ml_trip/calligraphy/IMG_1790.jpg" alt="Calligraphy picture">
+    </div>
+    <div class="item">
+      <img src="/assets/images/ml_trip/calligraphy/IMG_1791.jpg" alt="Calligraphy picture">
+    </div>
+    <div class="item">
+      <img src="/assets/images/ml_trip/calligraphy/IMG_1792.jpg" alt="Calligraphy picture">
+    </div>
+    <div class="item">
+      <img src="/assets/images/ml_trip/calligraphy/IMG_1793.jpg" alt="Calligraphy picture">
+    </div>
+    <div class="item">
+      <img src="/assets/images/ml_trip/calligraphy/IMG_1794.jpg" alt="Calligraphy picture">
+    </div>
+    <div class="item">
+      <img src="/assets/images/ml_trip/calligraphy/IMG_1795.jpg" alt="Calligraphy picture">
+    </div>
+    <div class="item">
+      <img src="/assets/images/ml_trip/calligraphy/IMG_1796.jpg" alt="Calligraphy picture">
+    </div>
+    <div class="item">
+      <img src="/assets/images/ml_trip/calligraphy/IMG_1797.jpg" alt="Calligraphy picture">
+    </div>
+    <div class="item">
+      <img src="/assets/images/ml_trip/calligraphy/IMG_1798.jpg" alt="Calligraphy picture">
+    </div>
+    <div class="item">
+      <img src="/assets/images/ml_trip/calligraphy/IMG_1799.jpg" alt="Calligraphy picture">
+    </div>
+    <div class="item">
+      <img src="/assets/images/ml_trip/calligraphy/IMG_1800.jpg" alt="Calligraphy picture">
+    </div>
+  </div>
+
+  <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#myCarousel" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+
 
 some undertones of propaganda in the museum, but which museum doesn't, surprised to see lot of Indian artifacts here. 
 3 of us spoke about who looted what and when from India and how rich we could've been if not for that.
-I guess, Indians can't escape from this conversations in any big museums around the world :cry:
+I guess Indians can't escape from this conversation in any big museums around the world :cry:
 
-then came back to the hotel around 2PM to check in, receptionist was strict about time and didn't let us in until 2:30 PM
-all of us were tired from the journey and all the walking, so we hit the bed striaght or atleast that's what I thought
+then came back to the hotel around 2PM to check in, the receptionist was strict about time and didn't let us in until 2:30 PM
+all of us were tired from the journey and all the walking, so we hit the bed straight or atleast that's what I thought
 my friends went to the infinity pool on top of the hotel 
 
 add pool photos here
 
-Around 6:40PM, I woke up, got freshened up again and all of us left for the KL tower's water show.
-We reached there just in time as there're only 3 shows 7PM, 8PM, 9PM, we caught the 8PM one
+Around 6:40PM, I woke up, got freshened up again, and all of us left for the KL tower's water show.
+We reached there just in time as there were only 3 shows 7PM, 8PM, 9PM, we caught the 8PM one
 
 add water show photos here
 
 Then we left for BB for the food street.
 Nothing much to add, the following photos will convey the range of foods that were available.
 
-add all photos of BB
+add all photos of BB bukit bintang
 
 this is what we ended up eating
 
