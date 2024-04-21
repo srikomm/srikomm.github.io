@@ -47,9 +47,9 @@ and it took us a few minutes just to find our luggage in the mountain of bags.
 
 # Breakfast
 
-Went out for breakfast here - [Cafe:in House](https://maps.app.goo.gl/Uu26YdMcRi8tK6Hw5).
-Had a heavy breakfast since we were exhausted from the plane ride.
-cost - 107RM
+Went out for breakfast here - [Cafe:in House](https://maps.app.goo.gl/Uu26YdMcRi8tK6Hw5).  
+Had a heavy breakfast since we were exhausted from the plane ride.  
+Cost - 107RM
 
 ![day 1 breakfast](/assets/images/day_1_breakfast.jpg)
 
