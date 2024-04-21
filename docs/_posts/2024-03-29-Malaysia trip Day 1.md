@@ -1,4 +1,4 @@
-# Day 1
+# KL airport and Immigration
 
 Landed in the KUL airport early in the morning at around 6AM. The First thing we did was to take three local SIMs, one for each of us.
 It costed around `45RM` for a 30-day pack. Our trip was for 10 days, but options were for either 7 days or 30 days, so had to take those.
@@ -26,11 +26,15 @@ I think this is a common practice here, no hassles in keeping the luggage at the
 In fact, by the time we came back to check in, there were easily 200 bags at the reception,
 and it took us a few minutes just to find our luggage in the mountain of bags.
 
+# Breakfast
+
 Went out for breakfast here - [Cafe:in House](https://maps.app.goo.gl/Uu26YdMcRi8tK6Hw5).
 Had a heavy breakfast since we were exhausted from the plane ride.
 cost - 107RM
 
 ![day 1 breakfast](/assets/images/day_1_breakfast.jpg)
+
+# Merdekka Square & Islamic Arts Museum
 
 To kill time, we went to [Merdekka square](https://maps.app.goo.gl/EA2kFNbEu8KjAQaA7).
 This is where they perform the annual independence day parade.
@@ -148,7 +152,7 @@ Some artifacts below.
     </a>
 </div>
 
-
+# Check in to the hotel
 
 We then went back to the hotel around 2PM to check in. 
 The receptionist was strict about time and didn't let us in until 2:30 PM.
@@ -160,10 +164,13 @@ The View from there was amazing.
 
 ![pool_view_one_twin_towers](/assets/images/ml_trip/day_01/pool_view/IMG_1817.jpg)    
 
+# Twin towers and water show
+
 Around 6:40PM, I woke up, got freshened up again, and all of us left for the KL tower's water show.
 On the way took some pictures in front of the twin towers.
 We reached there just in time as there were only 3 shows 7PM, 8PM, 9PM we caught the 8PM one. 
 
+# Jalan Alor Food street
 
 Then we left for the [Jalan Alor Food Street](https://maps.app.goo.gl/9XcYDBHdHcY3Uopt5) in **Bukit Bintang**.  
 Nothing much to add, the following photos will convey the range of foods that were available.
@@ -207,6 +214,8 @@ Nothing much to add, the following photos will convey the range of foods that we
     </a>
 </div>
 
+# Dinner
+
 This is what we ended up eating for Dinner (of course, along with some things from the street).   
 Cost - 129RM   
 
@@ -217,5 +226,5 @@ Visited a 7-Eleven store in between.
       
 Pro-tip: Visit a 7-Eleven every day and buy some water & bananas for the next day.  
 
-[KKR made a mockery of RCB's total](https://www.cricbuzz.com/cricket-scores/89703/rcb-vs-kkr-10th-match-indian-premier-league-2024).
+[KKR made a mockery of RCB's total](https://www.cricbuzz.com/cricket-scores/89703/rcb-vs-kkr-10th-match-indian-premier-league-2024).   
 I can't take GG hugging Virat.
