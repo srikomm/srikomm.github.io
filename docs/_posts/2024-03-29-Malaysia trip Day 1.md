@@ -4,7 +4,7 @@ Landed in the KUL airport early in the morning at around 6AM. The First thing we
 It costed around `45RM` for a 30-day pack. Our trip was for 10 days, but options were for either 7 days or 30 days, so had to take those.
 
 Then we cleared ourselves through the immigration check.
-Three of us were traveling, for 2 of us it was seamless, only question asked was, `How long is your stay?` and then the person at the
+Three of us were traveling, for two of us it was seamless, only question asked was, `How long is your stay?` and then the person at the
 counter took our photos and fingerprints and stamped our passport and let us through, for us, it hardly took five mins.
 They didn't even ask us to show our MDAC,
 But for that one lucky friend, he was asked to show, hotel booking(s) for the trip throughout, and return flight tickets etc., for him,
@@ -107,6 +107,7 @@ There was some artwork using arabic calligraphy and them being symmetrical, I co
         <span class="glyphicon glyphicon-chevron-right"></span>
         <span class="sr-only">Next</span>
     </a>
+
 </div>
 
 
@@ -150,11 +151,12 @@ Some artifacts below.
         <span class="glyphicon glyphicon-chevron-right"></span>
         <span class="sr-only">Next</span>
     </a>
+
 </div>
 
 # Check in to the hotel
 
-We then went back to the hotel around 2PM to check in. 
+We then went back to the hotel around 2PM to check in.
 The receptionist was strict about time and didn't let us in until 2:30 PM.
 All of us were tired from the journey and all the walking, so we hit the bed straight, or at least that's what I thought
 My friends went to the infinity pool on top of the hotel, 51st floor.
@@ -162,13 +164,13 @@ The View from there was amazing.
 
 ![pool_view_two_merdekka_118_and_kl_tower](/assets/images/ml_trip/day_01/pool_view/IMG_1816.jpg)
 
-![pool_view_one_twin_towers](/assets/images/ml_trip/day_01/pool_view/IMG_1817.jpg)    
+![pool_view_one_twin_towers](/assets/images/ml_trip/day_01/pool_view/IMG_1817.jpg)
 
 # Twin towers and water show
 
 Around 6:40PM, I woke up, got freshened up again, and all of us left for the KL tower's water show.
 On the way took some pictures in front of the twin towers.
-We reached there just in time as there were only 3 shows 7PM, 8PM, 9PM we caught the 8PM one. 
+We reached there just in time as there were only 3 shows 7PM, 8PM, 9PM we caught the 8PM one.
 
 # Jalan Alor Food street
 
@@ -212,19 +214,20 @@ Nothing much to add, the following photos will convey the range of foods that we
         <span class="glyphicon glyphicon-chevron-right"></span>
         <span class="sr-only">Next</span>
     </a>
+
 </div>
 
 # Dinner
 
 This is what we ended up eating for Dinner (of course, along with some things from the street).   
-Cost - 129RM   
+Cost - 129RM
 
-![crab](/assets/images/ml_trip/day_01/20240329_225641.jpg)   
+![crab](/assets/images/ml_trip/day_01/20240329_225641.jpg)
 
 We walked back to the hotel after spending about 2–3 hrs on the food street.
-Visited a 7-Eleven store in between.   
-      
-Pro-tip: Visit a 7-Eleven every day and buy some water & bananas for the next day.  
+Visited a 7-Eleven store in between.
+
+Pro-tip: Visit a 7-Eleven every day and buy some water & bananas for the next day.
 
 [KKR made a mockery of RCB's total](https://www.cricbuzz.com/cricket-scores/89703/rcb-vs-kkr-10th-match-indian-premier-league-2024).   
 I can't take GG hugging Virat.
