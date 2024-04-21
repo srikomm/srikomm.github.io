@@ -1,3 +1,22 @@
+<style>
+    #myCarousel .carousel-inner .item,
+    #myCarouselTwo .carousel-inner .item,
+    #myCarouselThree .carousel-inner .item {
+        height: 500px;
+        background-color: black;
+    }
+
+    #myCarousel .carousel-inner .item img,
+    #myCarouselTwo .carousel-inner .item img,
+    #myCarouselThree .carousel-inner .item img {
+        width: 100%;
+        height: 100%;
+        object-fit: contain;
+        display: block;
+        margin: 0 auto;
+    }
+</style>
+
 # KL airport and Immigration
 
 Landed in the KUL airport early in the morning at around 6AM. The First thing we did was to take three local SIMs, one for each of us.
@@ -41,10 +60,11 @@ This is where they perform the annual independence day parade.
 
 Then we walked towards [National Mosque of Malaysia](https://maps.app.goo.gl/mwSQc5KCJEP3yy9RA),
 but we weren't allowed to go in as it was Friday and some prayer was happening,
-then we strolled to [Islamic Arts Museum Malaysia](https://maps.app.goo.gl/8tHL3esWDhzUAM7dA)
-Entry cost - 20MYR per person
+then we strolled to [Islamic Arts Museum Malaysia](https://maps.app.goo.gl/8tHL3esWDhzUAM7dA).
 
-![entry tickets of museum](/assets/images/day_1_islamic_museum_entry_tickets.jpg)
+Entry cost - 20MYR per person.
+
+[//]: # (![entry tickets of museum]&#40;/assets/images/day_1_islamic_museum_entry_tickets.jpg&#41;)
 
 There was some artwork using arabic calligraphy and them being symmetrical, I couldn't help but take a lot of pictures there.
 
