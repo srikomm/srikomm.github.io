@@ -1,3 +1,15 @@
+---
+layout: page
+title: Malaysia trip Day 1
+categories: [ travel ]
+date: 2024-03-29
+published: true
+tags:
+  - travel
+author: srikomm
+---
+
+
 <style>
     #myCarousel .carousel-inner .item,
     #myCarouselTwo .carousel-inner .item,
@@ -249,5 +261,4 @@ Visited a 7-Eleven store in between.
 
 Pro-tip: Visit a 7-Eleven every day and buy some water & bananas for the next day.
 
-[KKR made a mockery of RCB's total](https://www.cricbuzz.com/cricket-scores/89703/rcb-vs-kkr-10th-match-indian-premier-league-2024).   
-I can't take GG hugging Virat.
+[KKR made a mockery of RCB's total](https://www.cricbuzz.com/cricket-scores/89703/rcb-vs-kkr-10th-match-indian-premier-league-2024).
