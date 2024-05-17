@@ -50,7 +50,7 @@ The ride was seamless and at no point we felt unsafe.
 Dude beat Google Maps ETA by about 15 minutes.
 He felt passionate about driving, his car was well maintained and had a custom paint job.
 
-![my man chilling after dropping us at the hotel with jetspeed](/assets/images/my_man_chilling_after_dropping_us_at_the_hotel_with_jetspeed.png)
+![my man chilling after dropping us at the hotel with jetspeed](/assets/images/ml_trip/day_01/my_man_chilling_after_dropping_us_at_the_hotel_with_jetspeed.png)
 
 We reached our hotel by 9 AM, but our checkin was at 3PM, so left the luggage at the reception.
 I think this is a common practice here, no hassles in keeping the luggage at the reception.
@@ -63,7 +63,7 @@ Went out for breakfast here - [Cafe:in House](https://maps.app.goo.gl/Uu26YdMcRi
 Had a heavy breakfast since we were exhausted from the plane ride.  
 Cost - 107RM
 
-![day 1 breakfast](/assets/images/day_1_breakfast.jpg)
+![day 1 breakfast](/assets/images/ml_trip/day_01/day_1_breakfast.jpg)
 
 # Merdekka Square & Islamic Arts Museum
 
@@ -76,8 +76,6 @@ then we strolled to [Islamic Arts Museum Malaysia](https://maps.app.goo.gl/8tHL3
 
 Entry cost - 20MYR per person.
 
-[//]: # (![entry tickets of museum]&#40;/assets/images/day_1_islamic_museum_entry_tickets.jpg&#41;)
-
 There was some artwork using arabic calligraphy and them being symmetrical, I couldn't help but take a lot of pictures there.
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -88,46 +86,46 @@ There was some artwork using arabic calligraphy and them being symmetrical, I co
 
     <div class="carousel-inner" role="listbox">
         <div class="item active">
-            <img src="/assets/images/ml_trip/calligraphy/IMG_1786.jpg" alt="Calligraphy picture">
+            <img src="/assets/images/ml_trip/day_01/calligraphy/IMG_1786.jpg" alt="Calligraphy picture">
         </div>
         <div class="item">
-            <img src="/assets/images/ml_trip/calligraphy/IMG_1787.jpg" alt="Calligraphy picture">
+            <img src="/assets/images/ml_trip/day_01/calligraphy/IMG_1787.jpg" alt="Calligraphy picture">
         </div>
         <div class="item">
-            <img src="/assets/images/ml_trip/calligraphy/IMG_1789.jpg" alt="Calligraphy picture">
+            <img src="/assets/images/ml_trip/day_01/calligraphy/IMG_1789.jpg" alt="Calligraphy picture">
         </div>
         <div class="item">
-            <img src="/assets/images/ml_trip/calligraphy/IMG_1790.jpg" alt="Calligraphy picture">
+            <img src="/assets/images/ml_trip/day_01/calligraphy/IMG_1790.jpg" alt="Calligraphy picture">
         </div>
         <div class="item">
-            <img src="/assets/images/ml_trip/calligraphy/IMG_1791.jpg" alt="Calligraphy picture">
+            <img src="/assets/images/ml_trip/day_01/calligraphy/IMG_1791.jpg" alt="Calligraphy picture">
         </div>
         <div class="item">
-            <img src="/assets/images/ml_trip/calligraphy/IMG_1792.jpg" alt="Calligraphy picture">
+            <img src="/assets/images/ml_trip/day_01/calligraphy/IMG_1792.jpg" alt="Calligraphy picture">
         </div>
         <div class="item">
-            <img src="/assets/images/ml_trip/calligraphy/IMG_1793.jpg" alt="Calligraphy picture">
+            <img src="/assets/images/ml_trip/day_01/calligraphy/IMG_1793.jpg" alt="Calligraphy picture">
         </div>
         <div class="item">
-            <img src="/assets/images/ml_trip/calligraphy/IMG_1794.jpg" alt="Calligraphy picture">
+            <img src="/assets/images/ml_trip/day_01/calligraphy/IMG_1794.jpg" alt="Calligraphy picture">
         </div>
         <div class="item">
-            <img src="/assets/images/ml_trip/calligraphy/IMG_1795.jpg" alt="Calligraphy picture">
+            <img src="/assets/images/ml_trip/day_01/calligraphy/IMG_1795.jpg" alt="Calligraphy picture">
         </div>
         <div class="item">
-            <img src="/assets/images/ml_trip/calligraphy/IMG_1796.jpg" alt="Calligraphy picture">
+            <img src="/assets/images/ml_trip/day_01/calligraphy/IMG_1796.jpg" alt="Calligraphy picture">
         </div>
         <div class="item">
-            <img src="/assets/images/ml_trip/calligraphy/IMG_1797.jpg" alt="Calligraphy picture">
+            <img src="/assets/images/ml_trip/day_01/calligraphy/IMG_1797.jpg" alt="Calligraphy picture">
         </div>
         <div class="item">
-            <img src="/assets/images/ml_trip/calligraphy/IMG_1798.jpg" alt="Calligraphy picture">
+            <img src="/assets/images/ml_trip/day_01/calligraphy/IMG_1798.jpg" alt="Calligraphy picture">
         </div>
         <div class="item">
-            <img src="/assets/images/ml_trip/calligraphy/IMG_1799.jpg" alt="Calligraphy picture">
+            <img src="/assets/images/ml_trip/day_01/calligraphy/IMG_1799.jpg" alt="Calligraphy picture">
         </div>
         <div class="item">
-            <img src="/assets/images/ml_trip/calligraphy/IMG_1800.jpg" alt="Calligraphy picture">
+            <img src="/assets/images/ml_trip/day_01/calligraphy/IMG_1800.jpg" alt="Calligraphy picture">
         </div>
     </div>
 
