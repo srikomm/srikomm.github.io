@@ -9,7 +9,7 @@ tags:
 author: srikomm
 ---
 
-Finally I'm able to set it up, wired range extender, same SSID, two routers in two opposite corners of my house, coverage has been great, and devices are seamlessly switching between the two as well. Big thanks to @bishnoi for the solve 
+Finally I'm able to set it up, wired range extender, same SSID, two routers in two opposite corners of my house, coverage has been great, and devices are seamlessly switching between the two as well. Big thanks to [@mahendrabishnoi2](https://github.com/mahendrabishnoi2) for the solve 
 
 Here's what I did:
 
