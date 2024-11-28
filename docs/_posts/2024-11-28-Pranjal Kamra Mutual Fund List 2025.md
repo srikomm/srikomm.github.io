@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PRANJAL KAMRA BEST MUTUAL FUND LIST 2025
+title: Pranjal Kamra best Mutual funds list 2025
 categories: [ finance ]
 date: 2024-11-28
 published: true
