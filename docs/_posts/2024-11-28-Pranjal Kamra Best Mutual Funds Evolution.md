@@ -37,7 +37,7 @@ author: srikomm
                 <td class="elss" colspan="5">Mirae Asset Tax Saver Fund</td>
             </tr>
             <tr>
-                <td>Flexi Cap</td>
+                <td>FLEXI CAP<br>Multi cap until 2021</td>
                 <td class="flexi-cap" colspan="8">Parag Parikh Flexi Cap Fund (Earlier Parag Parikh Long Term Equity Fund)</td>
             </tr>
             <tr>
@@ -48,7 +48,7 @@ author: srikomm
             </tr>
             <tr>
                 <td>Small Cap</td>
-                <td colspan="2"></td>
+                <td class="small-cap" colspan="2"></td>
                 <td class="small-cap" colspan="4">Axis Small Cap Fund</td>
                 <td class="small-cap" colspan="2">No Recommendation</td>
             </tr>
@@ -69,7 +69,7 @@ author: srikomm
                 <td>MULTI CAP</td>
                 <td rowspan="2"></td>
                 <td>MULTI CAP</td>
-                <td rowspan="2">*ELSS fund was</td>
+                <td rowspan="2">*ELSS fund was hidden in finology recipe, I'm guessing it'd mostly be Mirae Asset given the inclination for continuity</td>
                 <td>ELSS</td>
                 <td>ELSS</td>
                 <td rowspan="2"></td>
