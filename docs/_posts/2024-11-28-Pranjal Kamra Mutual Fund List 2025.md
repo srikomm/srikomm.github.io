@@ -17,3 +17,4 @@ author: srikomm
 | FLEXI CAP            	| PARAG PARIKH FLEXI CAP FUND     	|
 | MID CAP              	| NO RECOMMENDATION               	|
 | SMALL CAP            	| NO RECOMMENDATION               	|
+| LIQUID FUND           | QUANTUM LIQUID FUND               |
