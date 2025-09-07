@@ -20,8 +20,6 @@ Few pain points with LICHFL
 - Monthly reducing average
 - Prepayment would require a visit to the branch and would require proof of funds
 
-I wanted to transfer my home loan from LICHFL to SBI  
-
 ## Initial talks with SBI
 
 After going through reddit and my personal experience, I wanted to go with SBI for the loan transfer even though there were few 
