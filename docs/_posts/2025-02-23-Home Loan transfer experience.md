@@ -75,18 +75,22 @@ Once both valuation and legal are done, we start the application process for the
 loan you can apply for and how much top up loan you can take. My bank gave me a couple of forms to fill, most of the fields are self-explanatory. 
 Few fields, I took help from the assisstant manager in the bank to fill them. Once it is filled and signed by all the co-applicants, you submit it
 to the branch and then they start the online process. Basically, they upload all of this information in to their systems and then send it to a 
-regional branch for final verification and then for approval. In my case, they sent back the application to my branch saying a "deviation", since
-I wasn't working for few months in the last 3 years in between. SO I had to write an explanation letter, as to why I wasn't recieving any salary for
-those months. I check with the bank manager whether to mention health reasons, since it would look better, but he suggested that it wouldn't matter
-and I filled it with genuine reasons only that I intended for the break to be only 2 months but due to lack of hiring in the IT industry at that 
-time, it took few months for me find a new job. Then they attached this explanation letter to the loan application and resent it to the head office 
-and then after 3 days my loan was approved. So immediately a loan account was opened on my name and the loan amount is disbursed to that account.
+regional branch for final verification and then for approval. 
+
+In my case, they sent back the application to my branch saying a "deviation", since I wasn't working for few months in the last 3 years in between. 
+So I had to write an explanation letter, as to why I wasn't recieving any salary for those months. I checked with the bank manager whether to 
+mention health reasons, since it would look better, but he suggested that it wouldn't matter and I filled it with genuine reasons, that I intended 
+for the break to be only 2 months but due to lack of hiring in the IT industry at that  time, it took few more months for me find a new job. 
+Then they attached this explanation letter to the loan application and resent it to the head office and then after 3 days my loan was approved. 
+
+So immediately a loan account was opened on my name and the loan amount is disbursed to that account.
 Now I got a loan outstanding letter from LICHFL on the next day, this mentions the exact loan outstanding amount for that particular day and then go
 to SBI to get a DD for the exact amount and then take it back to LICHFL to submit it. Once this is done, LICHFL takes 10-15 days to get the orginal
 home documents which are stored in their head office (in my case visakhapatnam). We'll get an SMS & an email once they reach our LICHFL branch and we 
-need to go along with a current bank's representative to collect them. Note that, both parties need to be present, i.e; loan applicant and the new 
-bank's representative and then the documents are directly given to the bank representative. Please make sure to bank to your bank along with the rep 
-and make sure they're submitted to loan officer/bank manager there. 
+need to go along with a current bank's representative to collect them. 
+
+Note that, both parties need to be present, i.e; loan applicant and the new bank's representative and then the documents are directly given to the 
+bank representative. Please make sure to go to your bank along with the rep and make sure they're submitted to loan officer/bank manager there. 
 
 And then we follow a similar process for the home top up loan as well and it is sent for verification and then approval. Once that is also done, the 
 amount is disbursed into another loan account created for the top up loan. 
@@ -98,3 +102,8 @@ amount is disbursed into another loan account created for the top up loan.
 signature was required. In these cases, it's best always to consult bank manager/asst manager, as they always suggest the right thing to do.
 - SBI pushed very hard for me to take insurance on the laon, I was very steadfast that I wouldn't require it and rejected it every mention of it.
 Note that this is different from property insurance, which is for damages like earthquake, fire etc. 
+- During the final signing of the loan after approval, the SBI folks tried to sneakily make me sign on the insurance docs as well. There were 
+more than 300 signatures required from me that day and they just slipped in the insurance docs inside another bundle of docs, but I was briefly
+looking at the title of every page, and caought what they were trying to pull on me.
+- And then there was pressure from them to assign my Term insurance to SBI, whose value is much higher than the home loan amount. I didn't give in 
+to those demands and politely refused at every stage.
