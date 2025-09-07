@@ -25,7 +25,9 @@ Few pain points with LICHFL
 After going through reddit and my personal experience, I wanted to go with SBI for the loan transfer even though there were few 
 other PSU banks which were offering .05-.1% lower interest rates compared to SBI, but I wanted the reliability of their internet 
 banking experience as this is going to be a long duration. So I went to the nearest SBI branch and started talking to them about 
-the transfer and this is what the process involved.
+the transfer and this is what the process involved. Fortunately this time around, SBI had agents for home loan process, and you 
+need not pay them anything extra (you'll get to know how they earn on the side from you later on in this blog) and these folks 
+are supposed to help you through out the loan process.
 
 1. First thing is to get a document called LOD (List of Documents) from my exisiting bank/NBFC. Other documents can be acquired later during the 
 application stage. Usually, this would come from "head office" (a tactic to delay the transfer), so start this process ASAP and then you can 
