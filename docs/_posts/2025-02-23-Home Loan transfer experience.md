@@ -27,8 +27,10 @@ other PSU banks which were offering .05-.1% lower interest rates compared to SBI
 banking experience as this is going to be a long duration. So I went to the nearest SBI branch and started talking to them about 
 the transfer and this is what the process involved.
 
-1. First thing is to get few documents called LOD (List of Documents) from my exisiting bank/NBFC.
-2. Meanwhile, ready all the documents mentioned if you don't have them already (listed below)
+1. First thing is to get a document called LOD (List of Documents) from my exisiting bank/NBFC. Other documents can be acquired later during the 
+application stage. Usually, this would come from "head office" (a tactic to delay the transfer), so start this process ASAP and then you can 
+arrange other documents.
+2. Meanwhile, ready all the documents mentioned below
 3. Get valuation and legal done for the home/property
 4. Apply for home loan transfer and then for top-up
 
