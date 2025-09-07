@@ -34,9 +34,28 @@ the transfer and this is what the process involved.
 3. Get valuation and legal done for the home/property
 4. Apply for home loan transfer and then for top-up
 
-List of documents required
-1. dfdf
-2. fvdfd
+## List of documents required
+### From applicant/co-applicant(s)
+1. Adhaar card
+2. Pan card
+3. Last 6 months payslips
+4. Last 2 years form 16
+5. Joining letter of current company
+6. Old company's relieving letter and joining letter (for all the job changes in last 2 years)
+7. Bank statement for last 1 year of salary account
+8. Current company ID card
+
+### From old Bank/NBFC
+1. LOD (List of Documents)
+2. Loan sanction letter
+3. Loan statement for last 3 years
+4. Loan outstanding letter
+
+### Related to property
+1. All link documents (basically, these documents list all the previous owners of the land for last 50-100 years or upto available)
+2. Plan & proceedings of the apartment
+3. Latest house tax reciept
+4. Sale deed of the flat
 
 ## Valuation and Legal
 
