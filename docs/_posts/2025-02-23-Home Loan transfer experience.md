@@ -87,6 +87,9 @@ mention health reasons, since it would look better, but he suggested that it wou
 for the break to be only 2 months but due to lack of hiring in the IT industry at that  time, it took few more months for me find a new job. 
 Then they attached this explanation letter to the loan application and resent it to the head office and then after 3 days my loan was approved. 
 
+Then on a pre decided day we go to the bank to sign all the documents. Once the loan agreement is signed it needs to be franked, so we took it to a
+nearby franking shop, got it franked and returned it to the bank. Franking charges were 750.
+
 So immediately a loan account was opened on my name and the loan amount is disbursed to that account.
 Now I got a loan outstanding letter from LICHFL on the next day, this mentions the exact loan outstanding amount for that particular day and then go
 to SBI to get a DD for the exact amount and then take it back to LICHFL to submit it. Once this is done, LICHFL takes 10-15 days to get the orginal
@@ -97,7 +100,8 @@ Note that, both parties need to be present, i.e; loan applicant and the new bank
 bank representative. Please make sure to go to your bank along with the rep and make sure they're submitted to loan officer/bank manager there. 
 
 And then we follow a similar process for the home top up loan as well and it is sent for verification and then approval. Once that is also done, the 
-amount is disbursed into another loan account created for the top up loan. 
+amount is disbursed into another loan account created for the top up loan. One thing that was different here was, for top up loan, we needed to get 
+estamping done for the loan agreement. It cost around 8K for me.
 
 
 ## Things to consider/be on the lookout for
