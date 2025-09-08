@@ -70,6 +70,8 @@ Once this is done, all our docs are sent for legal, from what I understand, they
 the home loan, the link documents and home registration documents etc, and then attest them. I had to pay them another 5000 rupees.
 
 Both these fees, are apparently proportional to the value of the loan, i.e; if the loan amount is higher, these will also go higher.
+The actual fees for valuation and legal mentioned in the loan application is actually 3540 and 3500 respectively. I guess the difference
+is split between these people and the agent and this is how the agent earns other than the salary paid by the bank.
 
 ## Applying for loan transfer
 
