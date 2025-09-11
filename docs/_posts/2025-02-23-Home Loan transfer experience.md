@@ -88,7 +88,8 @@ for the break to be only 2 months but due to lack of hiring in the IT industry a
 Then they attached this explanation letter to the loan application and resent it to the head office and then after 3 days my loan was approved. 
 
 Then on a pre decided day we go to the bank to sign all the documents. Once the loan agreement is signed it needs to be franked, so we took it to a
-nearby franking shop, got it franked and returned it to the bank. Franking charges were 750.
+nearby franking shop, got it franked and returned it to the bank. Franking charges were 750. Also we need to get a mortgage deed done for this loan.
+It was 0.5% of the loan value in our state. We didn't need to do anything extra for this, we just paid the agent the amount for this and he took care of it. Also, it cost me around 3k just for xerox's throughout the whole process.
 
 So immediately a loan account was opened on my name and the loan amount is disbursed to that account.
 Now I got a loan outstanding letter from LICHFL on the next day, this mentions the exact loan outstanding amount for that particular day and then go
@@ -115,3 +116,5 @@ more than 300 signatures required from me that day and they just slipped in the 
 looking at the title of every page, and caought what they were trying to pull on me.
 - And then there was pressure from them to assign my Term insurance to SBI, whose value is much higher than the home loan amount. I didn't give in 
 to those demands and politely refused at every stage.
+- PSUs usually ask for a mortgage deed when giving a home loan, so this will be a significant cost if loan amount is higher, so do check if loan 
+transfer actually makes sense with this cost.
