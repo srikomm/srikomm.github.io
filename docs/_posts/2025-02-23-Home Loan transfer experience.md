@@ -114,7 +114,15 @@ Note that this is different from property insurance, which is for damages like e
 - During the final signing of the loan after approval, the SBI folks tried to sneakily make me sign on the insurance docs as well. There were 
 more than 300 signatures required from me that day and they just slipped in the insurance docs inside another bundle of docs, but I was briefly
 looking at the title of every page, and caought what they were trying to pull on me.
-- And then there was pressure from them to assign my Term insurance to SBI, whose value is much higher than the home loan amount. I didn't give in 
-to those demands and politely refused at every stage.
+- And then there was pressure from them to assign my Term insurance to SBI (as I wasn't taking their insurance), whose value is much higher than 
+the home loan amount. I didn't give in to those demands and politely refused at every stage. After a while they stopped bothering me about this.
 - PSUs usually ask for a mortgage deed when giving a home loan, so this will be a significant cost if loan amount is higher, so do check if loan 
 transfer actually makes sense with this cost.
+- If you wish to take a top up loan along with the loan transfer, you can save time & money on few things (like legal & valuation), as these are 
+freshly done and are valid upto 6 months, so need not get them done again, whereas if you go for a top up at another time, you'd have to get them 
+done again.
+- Since it is SBI, lot of processes take time and for me it took almost 3 months to complete the entire process. One thing I've figured out during 
+the whole ordeal is that, the branch manager usually has a lot of knowledge and these tellers/agents don't know some stuff and waste our time, so 
+at any stage if you feel it is getting delayed, just go to branch manager, they'd sort things out.
+- The old bank/NBFC, will try a lot of things to delay the process as much as possible and there's no point going into a fight with them as it would
+only lead to further delays. Best thing is to just bear with them for time being until the loan is transferred.
