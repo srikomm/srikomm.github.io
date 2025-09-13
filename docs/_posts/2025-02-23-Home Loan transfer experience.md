@@ -9,10 +9,10 @@ tags:
 author: srikomm
 ---
 
-Originally I had my home loan with LICHFL. I wanted to go with 
-[SBI MaxGain](https://emicalculator.net/sbi-maxgain-why-should-you-choose-this-home-saver-loan/), as I can park my extra cash
+Originally I had my home loan with LICHFL. I wanted to go with
+[SBI MaxGain](https://emicalculator.net/sbi-maxgain-why-should-you-choose-this-home-saver-loan/), (as I can park my extra cash
 there and earn interest on it at current home loan interest rate while having the flexibility to take out the money whenever
-I want, but while taking a fresh loan SBI asked for a lot of documentation, multiple trips to the SBI branch whereas LICHFL
+I want), but while taking a fresh loan SBI asked for a lot of documentation, multiple trips to the SBI branch whereas LICHFL
 had a tie up with my builder and I wasn't even required to leave my house even once during the whole process, an agent used
 to come to my home for all the signatures and any documentation required from us. So I went with LICHFL at that point of time
 thinking I can transfer it at a later date as that would be a much easier process.
