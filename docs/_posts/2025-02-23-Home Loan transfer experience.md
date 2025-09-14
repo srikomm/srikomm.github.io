@@ -113,6 +113,21 @@ And then we follow a similar process for the home top up loan as well and it is 
 amount is disbursed into another loan account created for the top up loan. One thing that was different here was, for top up loan, we needed to get
 estamping done for the loan agreement. It cost around 8K for me.
 
+## All the charges/payments
+
+| Expense                                  |                 Amount | Notes |
+| ---------------------------------------- | ---------------------: | ----------------- |
+| “Travelling charges” to valuation person |                   ₹500 | actually a bribe given to the person to get better valuation |
+| Valuation fee (company)                  |                 ₹6,000 | For property valuation. |
+| Legal/attestation charges                |                 ₹5,000 | For document legality/link-doc checks & attestation.|
+| **Franking** of loan agreement           |                   ₹750 | Done at nearby franking shop. |
+| **Mortgage deed** stamp duty             | **0.5% of loan value** | this can vary across states|
+| Xerox/photocopying                       |               \~₹3,000 | Cumulative across the process. |
+| **E-stamping** for top-up loan agreement |               \~₹8,000 | Specific to the top-up loan. |
+| **Loan Processing charges** main loan    |                    nil | waived off due to offer |
+| **Loan Processing charges** top up loan  |               \~₹3,000 | 50% off due to offer |
+| CERSAI charges                           |                   ₹236 | 2 * 118, for each loan |
+
 ## Things to consider/be on the lookout for
 
 - Agent from bank will always try to push few shady things to complete the process fatser. For ex, once he was asking me to sign where my mom's
