@@ -9,7 +9,8 @@ tags:
 author: srikomm
 ---
 
-| CATEGORY             	| FUND                            	|
-|----------------------	|---------------------------------	|
-| LIQUID FUND           | QUANTUM LIQUID FUND               |
-| LARGE CAP            	| HDFC INDEX FUND - SENSEX PLAN   	|
+| CATEGORY      | FUND                                                                       |
+|---------------|----------------------------------------------------------------------------|
+| LIQUID FUND   | QUANTUM LIQUID FUND                                                        |
+| LARGE CAP     | HDFC INDEX FUND - SENSEX PLAN                                              |
+| BEST GOLD ETF | ICICI PRUDENTIAL GOLD ETF (preferred) <br> UTI GOLD ETF <br> TATA GOLD ETF |
