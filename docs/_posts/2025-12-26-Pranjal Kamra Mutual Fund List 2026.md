@@ -16,3 +16,4 @@ author: srikomm
 | BEST GOLD ETF   | ICICI PRUDENTIAL GOLD ETF (preferred) <br> UTI GOLD ETF <br> TATA GOLD ETF |
 | LARGE & MID CAP | KOTAK LARGE & MID CAP FUND                                                 |
 | FLEXI CAP       | PARAG PARIKH FLEXI CAP FUND                                                |
+| SMALL CAP       | NO RECOMMENDATION                                                          |
